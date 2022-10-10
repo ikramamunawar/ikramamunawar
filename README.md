@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @ikramamunawar
-- 👀 I’m interested in web development in Java - Spring Framewrok
-- 🌱 I’m currently Spring Framework
-- 💞️ I’m looking to collaborate on open source web development projects
-- 📫 Reach me at ikramamunawar.cs@gmail.com
+### Hi there 👋 My name's Ikrama Bin Munawar
 
-<!---
-ikramamunawar/ikramamunawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+👀 I'm Software Developer with a focus on backend development using Java, Spring Boot & AWS.
+
+🛠  Tech Stack (mostly)
+
+    Java, Spring Boot, Spring Cloud, RabbitMQ, Oracle, and PostgreSQL
+
+However, I'm intensively exploring such topics like (among other things):
+
+    🔹 Apache Kafka
+    🔹 ElasticSearch
+    🔹 GraphQL
+
+💞️ I’m also looking to collaborate on open source web development projects
+
+## Reach me at
+
+- 🔗 [Linkedin](https://www.linkedin.com/in/ikramamunawar/)
+- 📫 [E-mail](mailto:ikrama.munawar2012@gmail.com)
